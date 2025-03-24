@@ -4,3 +4,8 @@ pandas
 numpy
 scikit-learn
 openpyxl
+plotly
+matplotlib
+requests
+Pillow
+datetime
